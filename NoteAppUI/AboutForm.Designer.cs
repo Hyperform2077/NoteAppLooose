@@ -69,7 +69,7 @@
 			this.AuthorLabel.Name = "AuthorLabel";
 			this.AuthorLabel.Size = new System.Drawing.Size(133, 20);
 			this.AuthorLabel.TabIndex = 2;
-			this.AuthorLabel.Text = "Author: Pavel Akulenko";
+			this.AuthorLabel.Text = "Author: Alexander Tikhonov";
 			// 
 			// EmailLabel
 			// 
@@ -90,7 +90,7 @@
 			this.EmailLinkLabel.Size = new System.Drawing.Size(180, 20);
 			this.EmailLinkLabel.TabIndex = 5;
 			this.EmailLinkLabel.TabStop = true;
-			this.EmailLinkLabel.Text = "paulsharker87732@gmail.com";
+			this.EmailLinkLabel.Text = "alexander.hyperform@gmail.com";
 			this.EmailLinkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.EmailLinkLabel_LinkClicked);
 			// 
 			// GitHubLabel
