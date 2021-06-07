@@ -111,7 +111,7 @@
 			this.GitHubLinkLabel.Size = new System.Drawing.Size(127, 17);
 			this.GitHubLinkLabel.TabIndex = 7;
 			this.GitHubLinkLabel.TabStop = true;
-			this.GitHubLinkLabel.Text = "Paul9819/NoteApp";
+			this.GitHubLinkLabel.Text = "Hyperform2077/NoteApp2077";
 			// 
 			// CopyRightLabel
 			// 
@@ -122,7 +122,7 @@
 			this.CopyRightLabel.Name = "CopyRightLabel";
 			this.CopyRightLabel.Size = new System.Drawing.Size(135, 20);
 			this.CopyRightLabel.TabIndex = 8;
-			this.CopyRightLabel.Text = "2019 Pavel Akulenko ©";
+			this.CopyRightLabel.Text = "2021 Tikhonov Alexander ©";
 			this.CopyRightLabel.Click += new System.EventHandler(this.CopyRightLabel_Click);
 			// 
 			// AboutForm
